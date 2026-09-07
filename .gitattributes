@@ -1,0 +1,11 @@
+# Text file normalization
+src/** linguist-detectable
+dist/* linguist-vendored
+*.gif binary
+src/**/*.ts linguist-detectable
+* text=auto eol=lf
+*.sh text eol=lf
+*.woff2 binary
+node_modules/* linguist-vendored
+*.htm linguist-vendored
+go.sum linguist-generated
