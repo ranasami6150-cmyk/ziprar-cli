@@ -1,0 +1,9 @@
+.next/
+coverage/
+.env
+.DS_Store
+.env.local
+*.tgz
+*.log
+node_modules/
+dist/
